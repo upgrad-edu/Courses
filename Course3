@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Namit Malasi
+Stacks & Queues
+Stacks and queues are ways of working with contiguous memory. Linked lists are not. Now sure, any problem that you can solve with one structure you could solve with another and slap enough abstraction on it that you couldn't tell the difference. 
+Linked lists make insertions into their middle easy. They make traversing hard.
+Stacks and queues prefer to do insertions and removal at an end.
