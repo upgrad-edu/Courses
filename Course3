@@ -11,3 +11,8 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Rohit Gupta
+Hashtables
+I'm being told to write about my learnings from this module. But wait, I didn't learn this from upGrad.
+This is something I had learnt on my own from various sources and I can say, hashing is really a powerful tool. It allows searching in constant time, bro!
