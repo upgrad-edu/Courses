@@ -10,3 +10,19 @@ You can choose onemodule from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Puneet Pandey
+Divide and Conquer Algorithms
+Learnt the basics of divide and conquer approach
+The approch of problem solving prescribes following three steps: 
+1. Dividing the problem into sub parts
+2. Solving the sub parts
+3. Combining the solved sub parts in the whole. 
+Some of the divide and conqeur algorithms are:
+1. Binary Search
+2. Quick Sort
+3. Merge Sort 
+
+
+
