@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Sindhuja Sabbani
+Searching and Sorting Algorithms
+I learnt how to search elements using linear search in O(N) time complexity.
+I learnt how to search elements using binary search in O(log N) time complexity.
+I learnt how to sort elements using selection,bubble and insertion sort algorithms in O(N^2) time complexity.
