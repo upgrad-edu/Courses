@@ -11,3 +11,8 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Rini J
+Stacks and queues
+I learnt about stacks and its various applications such as in parsing mechanism of compilers,undo of browsers etc.And the elements in stack follow Last In First Out order.
+Next about queue and its application in various sheduling algorithms,various operations in queues and stacks.
