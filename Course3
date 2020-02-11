@@ -6,8 +6,20 @@ You can choose onemodule from the list below:-
 4)Priority Queues & Heaps
 5)Graphs & Graph Algorithms
 
+
+Rohit Kundliwal
+Binary Trees & BSTs
+I learned that if the data structure is not well planned, the time taken for the algorithm can be very high. Choosing the right data structure is very important.
+I also learned that Binary Trees are T(o) of logN
+I learned different types of transversals (DFS and BFS) 
+I learned difference between Binary tree and Binary Search Tree - and how BST are better in many ways.
+P.s. I did not like the way this session was carried, the professor did not
+explain things well. Specially for me, since I dont have coding background! :)
+-Coming back here again, just checking (14/10/19)
+-Checking again
+
 Saubhik Mukherjee
 Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
-I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed grap
