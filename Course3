@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Viren Deshpande
+Binary Trees and BSTs
+I learnt how to create binary tree using linked list and array list
+I learnt why it is important to create a balanced binary tree
+I learnt the applications of binary trees.
