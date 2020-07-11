@@ -1,6 +1,6 @@
 Hello you can tell us your name and the module name from course1 you want to contribute to. 
 You can choose onemodule from the list below:-
-1)Stacks & Queues
+i1)Stacks & Queues
 2)Hashtables
 3)Binary Trees & BSTs
 4)Priority Queues & Heaps
@@ -11,3 +11,10 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Shashvat Mahendru
+Stacks  & Queues
+I learnt how stacks are used in different computer science problems
+I learnt what are the different methods implemented on stacks and queues like push, pop etc.
+I learnt how stacks and queues can be implemented in java.
+
