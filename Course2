@@ -7,6 +7,6 @@ You can choose onemodule from the list below:-
 5)Dynamic Programming
 
 
-Pawan Dubey
+Pranjul Paharia
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+It is one of the most Important part of Algorithms it helps in Solving Problems which have Overlapping Subproblems or Can be solved by Optimal Substructure.
