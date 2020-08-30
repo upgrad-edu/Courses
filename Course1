@@ -5,3 +5,14 @@ This module helped me land a job at my current employer. Also this module helped
 Gagan Raj M
 1)Variable and Datatypes
 Learnt basics of OOPS and Java Programming.
+
+Abhimanyu Hans
+Arrays and LinkedList
+I learnt two different school of storing data in memory - Arrays and LinkedList. 
+Arrays store any data in contagious manner that offers highly efficient access rates whilst lacking in deletion 
+and addition.
+LinkedList, however, stores data in non-contagious manner that uses a connected list of nodes.
+These nodes may be one-way connected giving rise to a singly-LinkedList 
+or two-way which is called a doubly-LinkedList.
+Lists can be traversed using its head or tail, offers easy implementation of any node/data point 
+at any point but does not offer direct accesses like Arrays.
