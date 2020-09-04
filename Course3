@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Sricharan Krishnan
+Stack and Queues
+- A Stack data structure in Java represents Last In - First Out (LIFO) property
+- A Queue data structure in Java represents First In - First Out (FIFO) property
+- Stacks and Queues are popular data structures in Java
