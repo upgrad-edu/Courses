@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Simran Farheen
+Hashtables
+I learned what a good hashing algorithm looks like
+I learned how hashtables are great datastructures for faster retrievals
+I learned how to use hashtables to implement solutions to various real world problems
