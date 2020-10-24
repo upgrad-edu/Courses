@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Tejas Hegde
+Binary Trres & BSTs
+I learnt what is difference between DFS and BFS.
+I learnt how to do different traversals of DFS like Inorder,PreOrder,PostOrder
+I learnt how to to BFS Traversal iteratively and recursively.
