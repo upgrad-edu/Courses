@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Sambath Kumar Natarajan
+Stacks & Queues
+Real life scenarios where the logic is used
+how to implement stack using the queue, vice versa
+their complexities
