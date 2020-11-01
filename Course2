@@ -6,6 +6,12 @@ You can choose onemodule from the list below:-
 4)Greedy Algorithm 
 5)Dynamic Programming
 
+Jayaprakash Harikrishnan
+Dynamic Programming
+- Break down the large problem into smaller problems.
+- Find the recurrence relation between the problems.
+- Find the solution for the smaller problems and store them.
+- Use the stored solution to solve similar future problem while solving large problem.
 
 Pawan Dubey
 Dynamic Programming
