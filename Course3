@@ -11,3 +11,11 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+
+Shivangi Agrawal
+Stacks & Queues
+I know what are the different operations that can be done on stack and queues.
+I can do push and pop in stack.
+Stack is based on LIFO while queue is based on FIFO.
+I know the advantages and disadvantages of these data structure.
