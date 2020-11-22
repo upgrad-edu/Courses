@@ -11,3 +11,11 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+vikas sinha
+Stacks & Queues
+It is one of the first and basic module and vastly used in computer science. Stack is like array but having restriction of access. 
+You can add and remove the elements from one end only. In case of Array you can do random things but stack do not allow it. 
+Queue on other hand also restricted access but allow to add element from one end and remove from another end. 
+
+These two basic data structures are used in almost everything in CS from program control management to priority queue etc. 
