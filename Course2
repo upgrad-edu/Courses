@@ -7,6 +7,9 @@ You can choose onemodule from the list below:-
 5)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+
+Pradeep Ravi 
+Algorithm Analysis
+Finding the time complexity of Algorithms, the efficiencies of Algorithms are as follows from most efficient to least effficient  O(1)>O (log n)>O(n)>O(nlogn)>O(n^2)>O(n^3)>O(2^n)>O(n!) 
+
