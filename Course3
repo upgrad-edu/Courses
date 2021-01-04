@@ -11,3 +11,10 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Satya Boni
+Stacks & Queues
+I understood how the Stacks & Queues manage their lists of elements
+I learnt that stacks use operation called push to insert an element into the stack
+I learnt that queue use similar operations like rear & front to insert & delete from the data sets
+I understood that both the data structures use LIFO & FIFO principles respectively
