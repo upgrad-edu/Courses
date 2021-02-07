@@ -11,3 +11,8 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Rajen Pala
+Stacks & Queues
+They are most basic data structure, but helps to solve a lot of complex problems efficiently.
+Programing languages also use stack to keep the flow of function calls. Basic understanding of stack really helps to understand and evaluate the flows.
