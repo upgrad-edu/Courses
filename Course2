@@ -10,3 +10,7 @@ You can choose onemodule from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Mayank Jain
+Divide and Conquer Algorithms
+Divide the problem into a number of subproblems that are smaller instances of the same problem.Conquer the subproblems by solving them recursively. If they are small enough, solve the subproblems as base cases.
