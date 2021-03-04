@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Rajesh Kavil
+Git and Version Control
+I learnt about centralized and distributed VCS
+I learnt about Git client and hosting services like Github, Butbucket
+I learnt about collboration through forking, cloning, branching and merging.
