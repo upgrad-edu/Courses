@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Shiva Prasad Rao G
+3  modules are present in the Course3
+1.Object Oriented Design - Learnt how to make use of UML design,Class Diagrams ,Activity diagrams in the project
+2.SDLC& Agile Methodology - Learnt  different SDLC's like Agile and Waterfall and its usages.
+3.Unit Testing TDD & Refactoring - Learnt how to effectively use Unit testing and its implementations
