@@ -7,6 +7,6 @@ You can choose onemodule from the list below:-
 5)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Namita Shetty
+Greedy Algorithm
+A greedy algorithm is an algorithmic strategy that makes the best optimal choice at each small stage with the goal of this eventually leading to a globally optimum solution. ... It picks the best immediate output, but does not consider the big picture, hence it is considered greedy.
