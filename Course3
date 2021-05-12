@@ -11,3 +11,11 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+SriRamTeja Paladi
+Hello I am from the course "PG Certification in DevOps" which is for 7.5 months duration and registered it with my other gmail ID starting with paladitj.
+I did not go through any of the above courses as our modules have not covered those. But I will write something on Stacks and Queues:
+1. I learned the purposes of a stack and queue and their working principles which are LIFO(Last In First Out) and FIFO (fist In First Out).
+2. I know about the different operations that could be performed on these data structures like POP, PUSH etc., and also understood that stack uses only one pointer to access the list whereas queue uses two pointers for pointing tot he first element and the last one.
+3. The other understanding that I have learned about stack and queue structures is that stack is used in solving problems working on recursions whereas queue is more suitable for working on solving problems having sequential processing.
+
