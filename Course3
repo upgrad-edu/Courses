@@ -11,3 +11,13 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+---
+Surendra Karempudi
+Design and Prototyping
+Prototyping:
+An incomplete version of the software product that demonstrates the functions of the product once it is implemented and the way in which the product would function in the real world.
+Used for fetching customer feedback without developing the complete software.
+Further refinements are made as more feedback is collected.
+Saves a lot of time without actually building the final software.
+
