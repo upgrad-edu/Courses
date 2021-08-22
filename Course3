@@ -11,3 +11,21 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+
+
+Vikas Pandey
+Stacks & Queues
+
+I have learned the Stacks 
+
+
+Stack A stack is a linear data structure in which elements can be inserted and deleted only from one side of the list, called the top 
+The queue data structure follows the FIFO (First In First Out) principle
+ i.e. the elementpush() − Pushing (storing) an element on the stack.
+
+pop() − Removing (accessing) an element from the stack.
+inserted at first in the list, is the first element to be removed from the list.
+
+
+Still I am learning.... 
