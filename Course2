@@ -10,3 +10,7 @@ You can choose onemodule from the list below:-
 Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+
+Nabila Akhtar
+Divide and Conquer Algorithms
+The problem is divided into smaller sub-problems and the sub-problems are solved recursively. A few of these include Merge Sort which is a sorting algorithm and Binary Search which is a searching algorithm.
