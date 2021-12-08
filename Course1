@@ -5,3 +5,9 @@ This module helped me land a job at my current employer. Also this module helped
 Gagan Raj M
 1)Variable and Datatypes
 Learnt basics of OOPS and Java Programming.
+Making changes in course 1 name:abrar module:branches 
+     FOUR learnings about my module:
+      1. Branches can be checked by using command git branches
+      2. branches can be moved from one to another one by git checkout branchname
+      3. branches can be created by command git branch branchname
+      4. to merge the branch with master or the origin branch command git merge is used.
