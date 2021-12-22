@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Rishabh Modi
+Unit Testing
+I learnt how to write the unit test cases using Junit
+I learnt the various assertions that can be used to assert the tests
+I learnt about the TDD approach of writing the code
