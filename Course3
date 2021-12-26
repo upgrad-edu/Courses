@@ -11,3 +11,11 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+
+Sham Kumar G
+Stacks & Queue
+Stacks and Queue are the linear data structures.
+Stacks follow first in last out principle.
+Queues follow first in first out principle.
+The elements in Stacks and Queues are traversed using pointers.
