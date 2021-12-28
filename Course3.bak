@@ -11,9 +11,3 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
-
-Sasank Palamangalam
-Priority Queues & Heaps
-I learnt how to implement basic operations on Binary Heap and Shift Up Operation.
-I learnt how to ExtractMax
-I learnt Array Representation of Binary Heap.
