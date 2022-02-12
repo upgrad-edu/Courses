@@ -10,4 +10,9 @@ Saubhik Mukherjee
 Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
+
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Yashwanth Kota
+Hashtables
+Hash Table is a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast if we know the index of the desired data. Upgrad did a great job in explaining about hashtables.
