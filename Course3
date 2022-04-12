@@ -11,3 +11,12 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+
+4/11/2022
+Umar Farook
+
+The module name of your choice from Course 3 - git commands
+I have been using github and gitlab for a while, but has been always using the GitHub desktop GUI to work locally and commit to the repository. This 
+module helped understand the basics of how git works, the states of commit (modified, staged, commited) and all the commands. I got much better with the 
+commands now including branching, merging, deleting, reverting etc., It was fun learning this module.
