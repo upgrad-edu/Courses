@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Surabhi Bobade
+Binary Trees & BSTs
+A Binary tree is a non-linear data structure in which a node can have either 0, 1 or maximum 2 nodes
+Each node in a binary tree is represented either as a parent node or a child node. There can be two children of the parent node, i.e., left child and right child.
+A Binary search tree is a tree that follows some order to arrange the elements, whereas the binary tree does not follow any order.
