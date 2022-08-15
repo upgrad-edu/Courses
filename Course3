@@ -5,9 +5,13 @@ You can choose onemodule from the list below:-
 3)Binary Trees & BSTs
 4)Priority Queues & Heaps
 5)Graphs & Graph Algorithms
+6)Version control
 
-Saubhik Mukherjee
-Graphs & Graph Algorithms
-I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
-I learnt how to do BFS and DFS traversals on a graph.
-I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+sudarsan k pai
+version control
+> I learned how to 
+    -> Use version controls for managing different versions of my projects.
+    -> collaborate with team members using github repositories.
+    -> Braching and features why use branching.
+    -> Forking, cloning, push and pull requests.
+    -> integrate git and github to prevent unnecessary updates, different work spaces, and maintaining branches with which forking merging and all can be implemented for efficient working
