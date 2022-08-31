@@ -11,3 +11,11 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Subhankar Mohanty
+Inheritance & Polymorphism
+I learnt about-
+1. Inheritance and its types
+2. Abstract classes and interfaces
+3. Polymorphism, static and dynamic polymorphism
+4. Different ways to achieve polymorphism
