@@ -1,0 +1,5 @@
+Sabir Mulla from course 3
+Version Controll
+I learnt how to create account on github.
+I learnt how to execute command in gitbash.
+I learnt how to make a pull request.
