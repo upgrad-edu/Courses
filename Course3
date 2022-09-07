@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Vinod Patil
+Abstraction and Encapsulation
+In this module we study about one of the pillar of object oriented programming.
+It states about what is abstraction and encapsuation.
+And how to implment them according to our use case in classes.
