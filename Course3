@@ -11,3 +11,13 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+
+
+
+Yashasvi Goyal
+Stacks & Queues
+Stacks are based on the LIFO principle i.e. the element inserted at the last, is the first element to come out of the list.
+Queues are based on the FIFO principle i.e. the element inserted at the first, is the first element to come out of the list.
+For implementation of a queue, a minimum of 2 stacks are required.
+
