@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T12:54:05.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5g57PAlkdMjYbsVQWbtp" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T12:54:39.704Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vzmg78Zkrlcb284ilKmT" version="20.3.7" type="github">
   <diagram id="gbzk3yQSj8liMku1RLfF" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="S5wvV7lNFDj4NxCUPVdr-1" value="Restaurant Finder" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
+        <mxCell id="S5wvV7lNFDj4NxCUPVdr-1" value="Restaurant Finder System" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="175" y="50" width="550" height="830" as="geometry" />
         </mxCell>
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-2" value="Users " style="swimlane;startSize=20;" parent="S5wvV7lNFDj4NxCUPVdr-1" vertex="1">
@@ -46,7 +46,7 @@
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-40" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="S5wvV7lNFDj4NxCUPVdr-2" vertex="1">
           <mxGeometry x="110" y="720" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S5wvV7lNFDj4NxCUPVdr-3" value="Restaurant Service" style="swimlane;startSize=20;" parent="S5wvV7lNFDj4NxCUPVdr-1" vertex="1">
+        <mxCell id="S5wvV7lNFDj4NxCUPVdr-3" value="Restaurant Finder Service" style="swimlane;startSize=20;" parent="S5wvV7lNFDj4NxCUPVdr-1" vertex="1">
           <mxGeometry x="250" y="20" width="300" height="810" as="geometry" />
         </mxCell>
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-7" value="Looking for the restaurant &lt;br&gt;in the database" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="S5wvV7lNFDj4NxCUPVdr-3" vertex="1">
