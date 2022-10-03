@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T12:53:36.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hNxUqNjpEKdcQWGqtiXG" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T12:54:05.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5g57PAlkdMjYbsVQWbtp" version="20.3.7" type="github">
   <diagram id="gbzk3yQSj8liMku1RLfF" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-37" value="View the total price" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="S5wvV7lNFDj4NxCUPVdr-2" vertex="1">
-          <mxGeometry x="55" y="635" width="140" height="40" as="geometry" />
+          <mxGeometry x="55" y="630" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-40" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="S5wvV7lNFDj4NxCUPVdr-2" vertex="1">
           <mxGeometry x="110" y="720" width="30" height="30" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="80" y="540" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-35" value="Update the total price&lt;br&gt;to the users" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;" parent="S5wvV7lNFDj4NxCUPVdr-3" vertex="1">
-          <mxGeometry x="80" y="630" width="140" height="50" as="geometry" />
+          <mxGeometry x="80" y="625" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="S5wvV7lNFDj4NxCUPVdr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="S5wvV7lNFDj4NxCUPVdr-1" source="S5wvV7lNFDj4NxCUPVdr-6" target="S5wvV7lNFDj4NxCUPVdr-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
