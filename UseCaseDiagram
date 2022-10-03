@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T13:07:47.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="P1oIFaW8rHhkM21W_vfV" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T13:10:10.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="b2FcRZswjTMMoIM6SGEu" version="20.3.7" type="github">
   <diagram id="12-v_-Ps5oeWohAapK6f" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="sopNn36Yz9ptfTBNqcj7-46" value="View restaurant&amp;nbsp;result" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="437.5" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="sopNn36Yz9ptfTBNqcj7-63" value="Update menu items" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sopNn36Yz9ptfTBNqcj7-63" value="Update the menu" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="408" y="615" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sopNn36Yz9ptfTBNqcj7-69" value="View the result" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -189,14 +189,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1mR-kCqucfosYlv0QzaQ-20" value="Update the &lt;br&gt;search result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="460" width="140" height="65" as="geometry" />
+          <mxGeometry x="450" y="450" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1mR-kCqucfosYlv0QzaQ-21" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1mR-kCqucfosYlv0QzaQ-20" target="sopNn36Yz9ptfTBNqcj7-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="580" y="490" as="sourcePoint" />
             <mxPoint x="750" y="492" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="490" />
+              <mxPoint x="680" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
