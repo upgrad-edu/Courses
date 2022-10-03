@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-03T13:18:25.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="FrQyU3H7UyAd1IJS-bXk" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T13:23:03.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-GR7Eu9cVeVpwiTeUg-R" version="20.3.7" type="github">
   <diagram id="12-v_-Ps5oeWohAapK6f" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,7 +51,14 @@
           <mxGeometry x="217.99" y="890" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sopNn36Yz9ptfTBNqcj7-78" value="Invalid Search Result" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="390" width="110" height="60" as="geometry" />
+          <mxGeometry x="350" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sopNn36Yz9ptfTBNqcj7-80" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sopNn36Yz9ptfTBNqcj7-78" target="1mR-kCqucfosYlv0QzaQ-25" edge="1">
+          <mxGeometry x="-1" y="-36" width="160" relative="1" as="geometry">
+            <mxPoint x="581.13" y="383.75" as="sourcePoint" />
+            <mxPoint x="469.4403785105369" y="458.5505092157457" as="targetPoint" />
+            <mxPoint x="-4" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sopNn36Yz9ptfTBNqcj7-88" value="Restaurant Search Result" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="284.25" y="260" width="207.5" height="26" as="geometry" />
@@ -181,30 +188,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1mR-kCqucfosYlv0QzaQ-20" value="Update the &lt;br&gt;search result" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="120" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="1mR-kCqucfosYlv0QzaQ-21" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1mR-kCqucfosYlv0QzaQ-20" target="sopNn36Yz9ptfTBNqcj7-6">
+        <mxCell id="1mR-kCqucfosYlv0QzaQ-21" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical;rounded=0;" edge="1" parent="1" source="1mR-kCqucfosYlv0QzaQ-25" target="sopNn36Yz9ptfTBNqcj7-6">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="580" y="490" as="sourcePoint" />
+            <mxPoint x="570" y="482.5" as="sourcePoint" />
             <mxPoint x="750" y="492" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1mR-kCqucfosYlv0QzaQ-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1mR-kCqucfosYlv0QzaQ-20" target="sopNn36Yz9ptfTBNqcj7-9">
+        <mxCell id="1mR-kCqucfosYlv0QzaQ-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1mR-kCqucfosYlv0QzaQ-25" target="sopNn36Yz9ptfTBNqcj7-9">
           <mxGeometry x="-0.468" y="-35" width="160" relative="1" as="geometry">
-            <mxPoint x="507.76" y="450" as="sourcePoint" />
+            <mxPoint x="510" y="450" as="sourcePoint" />
             <mxPoint x="500" y="360" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1mR-kCqucfosYlv0QzaQ-24" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sopNn36Yz9ptfTBNqcj7-78" target="1mR-kCqucfosYlv0QzaQ-20">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="450" y="437.5" as="sourcePoint" />
-            <mxPoint x="610" y="437.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="1mR-kCqucfosYlv0QzaQ-25" value="&lt;br&gt;extension points&lt;br&gt;Invalid Search Result" style="html=1;shape=mxgraph.sysml.useCaseExtPt;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1mR-kCqucfosYlv0QzaQ-26" value="Update search &lt;br&gt;results" style="resizable=0;html=1;verticalAlign=middle;align=center;labelBackgroundColor=none;fontStyle=1;" connectable="0" vertex="1" parent="1mR-kCqucfosYlv0QzaQ-25">
+          <mxGeometry x="80" y="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
