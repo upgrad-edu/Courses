@@ -9,5 +9,8 @@ You can choose onemodule from the list below:-
 Saubhik Mukherjee
 Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
-I learnt how to do BFS and DFS traversals on a graph.
-I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+I learnt how to do BFS and DFS traversals on a graph. learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Rupam Halder
+Stacks and Queues
+I learnt in which sequence the code is executed. I learnt how that sequence is decided. I leant about LIFO and FIFO.
