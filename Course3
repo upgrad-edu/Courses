@@ -1,13 +1,13 @@
-Hello you can tell us your name and the module name from course1 you want to contribute to. 
-You can choose onemodule from the list below:-
-1)Stacks & Queues
-2)Hashtables
-3)Binary Trees & BSTs
-4)Priority Queues & Heaps
-5)Graphs & Graph Algorithms
+Your name:                                             Tanishq Priya
 
-Saubhik Mukherjee
-Graphs & Graph Algorithms
-I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
-I learnt how to do BFS and DFS traversals on a graph.
-I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+The module name of your choice from Course 3:          Version Control
+
+And, 3-4 sentences on your learnings from that module: I got to learn about The two kinds of version control systems,
+                                                       The Centralised and Distributed. 
+                                                       Got to know about various examples and advantages of distributed over centralised.
+                                                       E.g- Google doc, subversion -- Centralised
+                                                       E.g- Github, Mercurial -- Distributed
+                                                       Learnt about the differences between Git and Github.
+                                                       Got introduced to Git commands, how to push files from local repository on our local computer
+                                                       to The remote repository on github.
+                                                       Collaboration,Branching, fork, clone!
