@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Sonali Patel
+Stacks & Queues
+We use stack or queue instead of arrays/lists when we want the elements in a specific orde.
+i.e. in the order we put them (queue) or in the reverse order (stack).
+Queues and stacks are dynamic while arrays are static,so when we require dynamic memory we use queue or stack over arrays.
