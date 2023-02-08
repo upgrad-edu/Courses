@@ -7,6 +7,6 @@ You can choose onemodule from the list below:-
 5)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Meet Sindhal
+Greedy Algorithm
+A greedy algorithm is a mathematical optimization method that makes the locally optimal choice at each step with the hope of finding a global optimum. It's called "greedy" because it takes what it can get now, without considering future options.
