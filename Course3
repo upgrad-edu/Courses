@@ -11,3 +11,8 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+Snekha M
+FORKING AND CLONING
+In this module i learned about the difference between forking and cloning 
+Forking will allow as to work on sum one else remote repository and 
+A clone is a duplicate copy of a remote repository  on our github account.
