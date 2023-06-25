@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Shubhangi Kumbhar
+Stacks & Queues
+I have learnt about stack and queues, Stack follows a Last in First out order and Queue follows a First in First out order
+for storing the elements. Use a queue when you want to get things out in the order you put them in, and use a stack when
+you want to get thing in reverse order.
