@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Edit:
+My name is Sagar. I want to contribute to Stacks & Queues.
+Stack and Queue are fundamental data structures in Java Collections. 
+Stack follows Last in First out(LIFO) order whereas Queues are open from both ends, 
+which uses First in First out order of data insertion and deletion.
