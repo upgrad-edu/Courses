@@ -11,3 +11,7 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Shaik Asra Tabassum
+Test Driven Development
+In the TDD approach, you identify the requirements first and then write test cases for all the requirements. After that, you start writing your code to fix these test cases, which means that whenever you have a requirement, you would first write a test case for the requirement. Obviously, the test case fails because you have not yet written the code for it. Next, you write the code so that the test case passes. 
