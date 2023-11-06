@@ -7,6 +7,11 @@ You can choose onemodule from the list below:-
 5)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+OM PRAKASH TIWARI
+Greedy Algorithm
+In the "Greedy Algorithm" module, I gained a deep understanding of a fundamental algorithmic 
+strategy used in problem-solving. Greedy algorithms aim to make locally optimal choices at each step in the
+hope of finding a globally optimal solution. I learned how to identify problems that are suitable for greedy algorithms, 
+such as scheduling and minimum spanning trees. The key insight is to select the best possible choice at each 
+stage without worrying about the global picture, which can lead to efficient solutions for a wide range of problems. 
+This module helped me appreciate the elegance and efficiency of greedy algorithms in algorithm design and problem-solving.
