@@ -7,6 +7,7 @@ You can choose onemodule from the list below:-
 5)Dynamic Programming
 
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+My name is Prathiksha S
+Divide and Conquer Algorithms
+It is a problem-solving technique where a complex problem is broken down into smaller, more manageable subproblems.
+Firstly the main problem is divided into smaller, more manageable subproblems. This step continues until the subproblems become simple enough to solve directly. Then the solutions to the subproblems are found. This is often done recursively, where each subproblem is further divided until it reaches a base case that can be solved straightforwardly. Finally, the solutions to the subproblems are combined to solve the original problem. This step is crucial for ensuring that the solutions to the subproblems work together to provide an optimal solution to the main problem.
