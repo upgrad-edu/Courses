@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Vinita Gurnani 
+Stacks and Queues 
+I learnt the different types of Data structures, stacks and Queues.
+The stack is a linear data structure in which the insertion and deletion of elements are done by only one end.
+The Queue is a linear data structure in which insertion and deletion are done from two different ends i.e., rear and front ends, respectively.
