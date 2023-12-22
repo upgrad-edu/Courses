@@ -11,3 +11,9 @@ Graphs & Graph Algorithms
 I learnt how to implement a graph using edge list, adjacency lists and adjacency matrix.
 I learnt how to do BFS and DFS traversals on a graph.
 I learnt how to use Dijkstra's algorithm to find the shortest path from a vertex in a directed graph.
+
+Shashank Maurya
+Stacks & Queues
+I learnt that how elements are added i.e. push on top of the stack and pop from the top of the queue and in queue it is added at the back of the queue and removed from the front of the queue.
+I learnt that stacks are often used for tasks that require backtracking such as parsing expressions or undo functionality and queues for handling requests or scheduling tasks.
+I learnt that stacks are used in recursion and while queue is used in solving problems having sequential processing.
